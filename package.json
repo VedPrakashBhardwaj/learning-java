@@ -1,0 +1,23 @@
+{
+  "name": "learning-java",
+  "version": "1.0.0",
+  "description": "NA",
+  "homepage": "https://github.com/VedPrakashBhardwaj/learning-java#readme",
+  "bugs": {
+    "url": "https://github.com/VedPrakashBhardwaj/learning-java/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VedPrakashBhardwaj/learning-java.git"
+  },
+  "license": "ISC",
+  "author": "ved",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
